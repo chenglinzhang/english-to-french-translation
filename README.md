@@ -1,2 +1,3 @@
-# english-to-french-translation
-English to French translation with seq2seq and lstm
+# Udacity: Deep Learning Foundation
+
+## Project 4: English to French Translation with seq2seq and lstm
